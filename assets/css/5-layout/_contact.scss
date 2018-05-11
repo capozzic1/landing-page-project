@@ -1,0 +1,34 @@
+.contact-row {
+    h1, h2 {
+        color: $brandOrange;
+    }
+    div {
+        padding: 15px 0px;
+    }
+
+    .contact-top {
+        h3 {
+            font-size: 15px;
+            margin-top: 14px;
+            color: #B5B5B5;
+        }
+        .contact-span {
+            color: #7C7C7C;
+        }
+    }
+
+    .contact-middle {
+   
+        
+        p{
+            color: #B5B5B5;
+        }
+    }
+
+    .contact-bottom {
+        h2 {
+            border-bottom: 5px solid #525252;
+            padding: 8px 0px;
+        }
+    }
+}

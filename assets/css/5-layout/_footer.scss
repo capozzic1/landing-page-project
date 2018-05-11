@@ -1,0 +1,64 @@
+.form-wrap {
+ 
+    form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .fphone,
+    .femail {
+        width: 49%;
+    }
+    .fname,
+    textarea {
+        flex: 0 0 100%;
+    }
+
+    form input,
+    textarea {
+        background-color: #F6F6F6;
+        border: none;
+        margin: 5px 0;
+        padding: 10px;
+    }
+}
+
+.form-wrap, .contract-wrap {
+    width: 50%;
+}
+
+.contact-wrap {
+    margin-left: 8%;
+
+    .contact-details {
+        font-weight: 600;
+        font-size: 16px;
+
+        i {
+            border: 1px solid black;
+            padding: 5px;
+        }
+    }
+}
+
+.contact-bottom {
+    display: flex;
+    /* flex-direction: row; */
+
+}
+
+.fsubmit {
+    color: white;
+    background: $brandOrange;
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    width: 17%;
+    font-weight: 700;
+}
+
+.fmessage {
+    height: 110px;
+}
+

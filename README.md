@@ -1,18 +1,22 @@
-# Bootstrap 4 boilerplate
-A [Bootstrap](https://getbootstrap.com/) v4.1.0 boiler plate with [Sass](http://sass-lang.com/), concatenation, minification, autoprefixer, [Browsersync](https://www.browsersync.io/), hot reloading and sourcemaps all runned by [Gulp](https://gulpjs.com/).
+Short instructions: 
 
-![bootstrap logo](https://user-images.githubusercontent.com/10498583/31125543-e2a88c2c-a848-11e7-87b0-d20ea38d41d0.jpg)
-![sass logo](https://user-images.githubusercontent.com/10498583/31125541-e2a732e6-a848-11e7-959d-7d7b0c138124.jpg)
-![gulp logo](https://user-images.githubusercontent.com/10498583/31125542-e2a78b88-a848-11e7-8ac5-c396f46e811f.jpg)
-![browsersync logo](https://user-images.githubusercontent.com/10498583/31125540-e2a6eed0-a848-11e7-817a-69c5619f772a.jpg)
+1. Install gulp globally from the command line:
+
+ npm install -g gulp
+
+2. npm install from the command line to install dependencies 
+
+3. run "gulp serve" and then go to localhost:3000 or the url it says in the command line window
+
+Detailed directions:
 
 ## Quick Start
 ```
 # 1 Clone this repo
-git clone https://github.com/wapbamboogie/bootstrap-4-boilerplate.git
+git clone https://github.com/capozzic1/landing-page-project.git
 
 # 2 Navigate into the repo directory
-cd bootstrap-4-boilerplate
+cd landing-page-project
 
 # 3 Install all node packages
 npm install
