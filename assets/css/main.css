@@ -9401,4 +9401,8 @@ html {
   border-bottom: 5px solid #525252;
   padding: 8px 0px; }
 
+.contact-row i {
+  border: 1px solid black;
+  padding: 5px; }
+
 /*# sourceMappingURL=main.css.map */

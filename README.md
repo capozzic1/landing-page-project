@@ -1,3 +1,5 @@
+This project is hosted at: https://capozzic1.github.io/landing-page-project/
+
 Short instructions: 
 
 1. Install gulp globally from the command line:
